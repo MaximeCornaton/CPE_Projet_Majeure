@@ -1,0 +1,5 @@
+flask==3.0.0
+Flask-SocketIO==5.3.6
+opencv-python-headless
+mediapipe==0.10.9
+gunicorn
